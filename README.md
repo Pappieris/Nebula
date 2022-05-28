@@ -1,0 +1,2 @@
+# Nebula
+The Nebula Mod tries to be the best it can be - as far as 1 new coder can go. I am trying hard, and please give any feedback. Also, make sure to join this server - https://discord.gg/y7x7Kbjh - It is a cool place to talk, create mods and have fun! Currently adds: 1 new boss 2 magic weapons 5 ranged weapons 1 summoner weapon (WiP) 7 melee weapons  Everybody, thanks a lot for 1,000 downloads! I really can't believe this many people downloaded this dumb mod. 
